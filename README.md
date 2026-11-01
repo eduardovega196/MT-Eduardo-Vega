@@ -1,8 +1,9 @@
 # Memoria de Título - Eduardo Vega
 
-- `flota/`: prototipo interactivo de la flota eólica de Chile
-- `docs/`: archivos de apoyo de los anexos
-- `datos/`: bases de datos y archivos de apoyo
+Archivos de apoyo de los anexos de la memoria.
+
+- `docs/`: Anexo 1 (deck de inversión en PDF) y Anexo 3 (cláusulas tipo del pacto de accionistas, PDF y Word)
+- `datos/`: Anexo 2 (modelo financiero, resultados y script de la simulación de Monte Carlo) y Anexo 4 (registro de aportes)
+- `flota/`: Anexo 6, mapa interactivo de la flota eólica de Chile
 
 Link público: https://eduardovega196.github.io/MT-Eduardo-Vega/
-Prototipo: https://eduardovega196.github.io/MT-Eduardo-Vega/flota/
